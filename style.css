@@ -88,6 +88,11 @@ body{
     margin-bottom: 15px;
 }
 
+#p3:hover{
+    color: var(--Yellow);
+    cursor: pointer;
+}
+
 #p4{
     color: var(--Gray500);
     font-weight: 450;
